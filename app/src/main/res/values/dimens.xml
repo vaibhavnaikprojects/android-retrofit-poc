@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="card_evaluation">3dp</dimen>
+    <dimen name="cover_height">150dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="product_title_padding">10dp</dimen>
+    <dimen name="product_title">15sp</dimen>
+    <dimen name="sub_field_padding_bottom">5dp</dimen>
+    <dimen name="sub_field">12dp</dimen>
+    <dimen name="product_detail_title">16sp</dimen>
+    <dimen name="product_detail_sub_field">12sp</dimen>
+    <dimen name="overflow_width">20dp</dimen>
+    <dimen name="overflow_margin_top">10dp</dimen>
+    <dimen name="floating_button_size">64dp</dimen>
+    <dimen name="overflow_height">30dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
